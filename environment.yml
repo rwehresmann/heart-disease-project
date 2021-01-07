@@ -1,0 +1,4 @@
+name: /home/rwehresmann/Documents/repositories/herat-disease-project/env
+channels:
+  - defaults
+prefix: /home/rwehresmann/Documents/repositories/herat-disease-project/env
